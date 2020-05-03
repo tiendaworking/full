@@ -1,0 +1,65 @@
+@charset "utf-8";
+@media only screen and (min-width: 0px)and (max-width: 300px){
+
+body{
+margin:0% 0% 0% 0%;
+padding:0% 0% 0% 0%;
+height:100%;
+width:100%;	
+}	
+.header{
+margin:0% 0% 0% 0%;
+padding:0% 0% 0% 0%;
+height:100%;
+width:100%;	
+}	
+
+#logotipo{
+margin:0% 0% 0% 0%;
+padding:0% 0% 0% 0%;
+height:100%;
+width:100%;		
+}
+#menu{
+margin:0% 0% 0% 0%;
+padding:0% 0% 0% 0%;
+height:100%;
+width:100%;			
+}
+#buscador{
+margin:0% 0% 0% 0%;
+padding:0% 0% 0% 0%;
+height:100%;
+width:100%;	
+}
+	
+.slider{
+margin:0% 0% 0% 0%;
+padding:0% 0% 0% 0%;
+height:100%;
+width:100%;	
+}	
+	
+.categorias{
+margin:0% 0% 0% 0%;
+padding:0% 0% 0% 0%;
+height:100%;
+width:100%;		
+}	
+	
+	
+	
+	
+}	
+@media only screen and (min-width: 301px) and (max-width:600px){
+}
+@media only screen and (min-width: 601px)and (max-width: 768px){
+}
+@media only screen and (min-width: 769px)and (max-width: 1024px){	
+}
+@media only screen and (min-width: 1025px)and (max-width: 1200px){
+}
+@media only screen and (min-width: 1201px) and (max-width: 1440px){
+}
+@media only screen and (min-width: 1441px){ 
+}
